@@ -51,7 +51,7 @@ The script uses the built-in Windows Task Scheduler to run background checks eve
 * **5. Open game save folder** — Быстро открывает папку с сохранениями самой игры в Проводнике.
 * **6. Check status** — Показывает, работает ли фоновая задача, время последнего и следующего запуска, а также количество сохраненных бэкапов.
 * **7. Exit** — Закрыть меню.
-
+##
 * **1. Start backups** — Creates a Windows task and starts automatic backups.
 * **2. Stop backups** — Completely removes the task from the scheduler. Backups are stopped.
 * **3. Restore a backup** — Opens a list of available backups (regular and Milestone) for restoration. **Important: close the game before restoring!**
